@@ -25,7 +25,7 @@
         custom:handleBackground="@drawable/fast_scroller_handle_rounded"
         />
 
-    <xyz.danoz.recyclerviewfastscroller.sample.ui.example.ColorGroupSectionTitleIndicator
+    <fr.argus.android.checklistauto.fragment.MakeSelectionFragment$
         android:id="@+id/fast_scroller_section_title_indicator"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/list_item_height"
